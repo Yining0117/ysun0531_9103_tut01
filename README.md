@@ -7,8 +7,3 @@
 function helloWorld() {
 console.log("Hello, world!");
 }
-<<<<<<< HEAD
-```
-=======
-```
->>>>>>> d8f25613e961faf31c20f5866e6f45af72864efa
